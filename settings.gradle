@@ -1,0 +1,2 @@
+include ':tv'
+rootProject.name = '荔枝台-第三方'
